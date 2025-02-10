@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullSatck`**
 
-Opa, tudo bom? Sou João Carlos, um desenvolvedor Fullstack apaixonado por construir soluções web inovadoras. Minha expertise se concentra em Python e Django, tecnologias que me permitem criar aplicações robustas e eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na Universidade Nove de Julho, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
+Opa, tudo bom? Sou o João, um desenvolvedor Fullstack apaixonado por construir soluções web inovadoras. Minha expertise se concentra em Python e Django, tecnologias que me permitem criar aplicações robustas e eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na Universidade Nove de Julho, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
 Tenho grande interesse em oportunidades que me permitam aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o sucesso da empresa e da equipe.
 <br>
 <br>
