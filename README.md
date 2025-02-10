@@ -1,4 +1,4 @@
-# 👩‍💻 João Carlos Andrade
+# 👩‍💻 João Carlos Andrade Justo de Almeida
 
 **`Desenvolvedor FullSatck`**
 
