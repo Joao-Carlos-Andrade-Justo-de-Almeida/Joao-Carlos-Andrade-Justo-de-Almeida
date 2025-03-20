@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullSatck`**
 
-Opa, tudo bom? Sou o João, um desenvolvedor Fullstack apaixonado por construir soluções web inovadoras. Minha expertise se concentra em Python e Django, tecnologias que me permitem criar aplicações robustas e eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na Universidade Nove de Julho, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
+Opa, tudo bom? Sou o João, um desenvolvedor Backend apaixonado por construir soluções e lógica por traz de um programa. Minha expertise se concentra em Django, onde venho estudando para ter uma noção mais aprimorada e poder fazer um trabalho de excelente qualidade. Atualmente, curso Engenharia de Software na Unicid, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
 Tenho grande interesse em oportunidades que me permitam aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o sucesso da empresa e da equipe.
 <br>
 <br>
@@ -27,18 +27,10 @@ Tenho grande interesse em oportunidades que me permitam aplicar meus conheciment
 <img 
     align = "left"
     alt="css"
-    title = "Python"
+    title = "Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<!-- logo django -->
-<img 
-    align = "left"
-    alt="css"
-    title = "Django"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 
 <!-- logo mysql -->
  <img  
@@ -66,33 +58,6 @@ Tenho grande interesse em oportunidades que me permitam aplicar meus conheciment
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<!-- logo Html -->
- <img 
-    align = "left"
-    alt="css"
-    title = "Html"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<!-- Logo css -->
-<img
-    align = "left"
-    alt="css"
-    title = "CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<!-- Logo Js -->
-<img 
-    align = "left"
-    alt="css"
-    title = "JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br>
 <br>
 <br>
