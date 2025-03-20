@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullSatck`**
 
-Opa, tudo bom? Sou o João, um desenvolvedor Backend apaixonado por construir soluções e lógica por traz de um programa. Minha expertise se concentra em Django, onde venho estudando para ter uma noção mais aprimorada e poder fazer um trabalho de excelente qualidade. Atualmente, curso Engenharia de Software na Unicid, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
+Opa, tudo bom? Sou o João, um desenvolvedor Backend apaixonado por construir soluções e lógica por traz de um programa. Minha expertise se concentra em Java, onde venho estudando para ter uma noção mais aprimorada e poder fazer um trabalho de excelente qualidade. Atualmente, curso Engenharia de Software na Unicid, onde aprimoro meus conhecimentos e me mantenho atualizado com as últimas tendências do mercado. 
 Tenho grande interesse em oportunidades que me permitam aplicar meus conhecimentos e habilidades em projetos inovadores, contribuindo para o sucesso da empresa e da equipe.
 <br>
 <br>
